@@ -1,1 +1,7 @@
-This should be my readme.txt file that is to be committed to the repository. I hope i have fun all the way.
+# HNG Internship
+
+This will contain tasks submitted to the Clubhouse
+
+# Owner
+* Charles Iheanacho
+
